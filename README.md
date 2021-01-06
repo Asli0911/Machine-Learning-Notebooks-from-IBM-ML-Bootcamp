@@ -13,3 +13,10 @@ Helpful Notebooks from "Machine Learning" bootcamp of IBM. This bootcamp include
 5- Deep Learning and Reinforcement Learning
 
 6- Specialized Models: Time Series and Survival Analysis 
+
+
+
+
+## NOTEBOOKS:
+
+01_DEMO_Hypothesis_Testing
