@@ -20,4 +20,6 @@ Helpful Notebooks from "Machine Learning" bootcamp of IBM. This bootcamp include
 ## NOTEBOOKS:
 
 01_DEMO_Hypothesis_Testing   
-02a_LAB_Transforming_Target
+02a_LAB_Transforming_Target   
+02b_LAB_Regression_Train_Test_Split   
+02c_DEMO_Cross_Validation   
