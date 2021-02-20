@@ -27,7 +27,7 @@ Helpful Notebooks from "Machine Learning" bootcamp of IBM. This bootcamp include
 02d_DEMO_Regularization_and_Gradient_Descent   
 02e_LAB_Regularization  
 
-04a_LAB_KMeansClustering
-04b_DEMO_Distance_Dimensionality
-04c_LAB_Clustering_Methods
+04a_LAB_KMeansClustering        
+04b_DEMO_Distance_Dimensionality        
+04c_LAB_Clustering_Methods     
 04d_DEMO_Dimensionality_Reduction
