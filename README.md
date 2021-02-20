@@ -29,3 +29,4 @@ Helpful Notebooks from "Machine Learning" bootcamp of IBM. This bootcamp include
 
 04a_LAB_KMeansClustering
 04b_DEMO_Distance_Dimensionality
+04c_LAB_Clustering_Methods
