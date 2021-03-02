@@ -34,4 +34,6 @@ Helpful Notebooks from "Machine Learning" bootcamp of IBM. This bootcamp include
    
 05a_DEMO_Gradient_Descent   
 05b_LAB_Intro_NN    
+05c_DEMO_Backpropagation    
+
 
