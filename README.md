@@ -40,7 +40,7 @@ Helpful Notebooks from "Machine Learning" bootcamp of IBM. This bootcamp include
 05f_DEMO_Transfer_Learning    
 05g_DEMO_RNN   
 05h_LAB_Autoencoders   
-
+05i_DEMO_Reinforcement    
 
 
 
