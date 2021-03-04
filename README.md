@@ -39,6 +39,7 @@ Helpful Notebooks from "Machine Learning" bootcamp of IBM. This bootcamp include
 05e_DEMO_CNN  
 05f_DEMO_Transfer_Learning    
 05g_DEMO_RNN   
+05h_LAB_Autoencoders   
 
 
 
