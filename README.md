@@ -42,5 +42,5 @@ Helpful Notebooks from "Machine Learning" bootcamp of IBM. This bootcamp include
 05h_LAB_Autoencoders   
 05i_DEMO_Reinforcement    
 
-
+06a_LAB_Pandas_TimeSeries   
 
