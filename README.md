@@ -43,4 +43,5 @@ Helpful Notebooks from "Machine Learning" bootcamp of IBM. This bootcamp include
 05i_DEMO_Reinforcement    
 
 06a_LAB_Pandas_TimeSeries   
+06b_LAB_Decomposition    
 
