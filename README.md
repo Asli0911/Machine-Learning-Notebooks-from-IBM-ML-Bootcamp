@@ -45,4 +45,4 @@ Helpful Notebooks from "Machine Learning" bootcamp of IBM. This bootcamp include
 06a_LAB_Pandas_TimeSeries   
 06b_LAB_Decomposition    
 06c_DEMO_Stationarity    
-
+06d_DEMO_Smoothing   
