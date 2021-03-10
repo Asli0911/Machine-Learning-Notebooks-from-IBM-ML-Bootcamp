@@ -48,3 +48,4 @@ Helpful Notebooks from "Machine Learning" bootcamp of IBM. This bootcamp include
 06d_DEMO_Smoothing   
 06e_DEMO_ARMA   
 06f_DEMO_SARIMA_Prophet   
+06g_DEMO_Deep_Learning   
