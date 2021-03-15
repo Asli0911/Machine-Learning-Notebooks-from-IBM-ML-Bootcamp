@@ -1,6 +1,6 @@
 # Machine-Learning-Notebooks-from-IBM-ML-Bootcamp
 
-Helpful Notebooks from "Machine Learning" bootcamp of IBM. This bootcamp includes the following courses:
+Helpful Notebooks from "Machine Learning" bootcamp of IBM. This bootcamp includes the following courses:   
 
 1- Exploratory Data Analysis for Machine Learning
 
